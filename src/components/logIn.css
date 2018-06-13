@@ -1,0 +1,14 @@
+.loginInput{
+    height: 42px;
+    width: 50%;
+    display: inline-block;
+}
+.loginButton{
+    display: inline-block;
+}
+.chaynsIdLogin {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+}
